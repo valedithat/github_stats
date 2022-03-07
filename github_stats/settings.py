@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'github_profiles.apps.GitHubProfilesConfig',
+    'github_profiles.apps.GithubProfilesConfig',
     'goals.apps.GoalsConfig',
     'peers.apps.PeersConfig',
     'users.apps.UsersConfig',
